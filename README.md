@@ -3,7 +3,7 @@
 ## Por que fiz esse repositório?
   Este repositório foi criado para colocar alguns projetos focados no serviço de análise da Microsoft, conhecido como PowerBI. 
   
-## Quais bancos de dados foi utilizado?
+## Quais bancos de dados foram utilizados?
   Os bancos de dados utilizados são bancos de dados públicos, normalmente são tirados de sites como Kaggle, AWS ou Google.
   
 ## O que é apresentado nos projetos?
